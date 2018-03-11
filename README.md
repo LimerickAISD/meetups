@@ -1,1 +1,1 @@
-"# Slides or Pdfs for past Limerick Ai (Application and Games) Software Development meetups" 
+"# Slides or Pdfs for past Limerick Ai (Applications and Games) Software Development meetups" 
